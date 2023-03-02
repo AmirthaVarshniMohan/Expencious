@@ -4,7 +4,8 @@ JAVA FEATURES:
 •	Swings
 •	Jframe
 
-SCREEN FORMAT:
+OUTPUT
+
 ![image](https://user-images.githubusercontent.com/105651923/222586401-de538c83-1ffd-4bdb-afe0-d9467daaec77.png)
 ![image](https://user-images.githubusercontent.com/105651923/222586434-bbeb887a-6fa5-4f5b-ba21-1f67d0c7ebd9.png)
 ![image](https://user-images.githubusercontent.com/105651923/222586479-216c9ba8-d49d-4ec9-87c6-e7106763fd45.png)
